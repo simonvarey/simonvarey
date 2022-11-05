@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @simonvarey
 - 👀 I’m interested in computational linguistics and text mining.
-- 🌱 I’m currently learning Python, JS, Rust and R.
+- 🏢 I’m currently working with Python, JS
+- 🌱 I’m currently learning Rust and R.
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 
