@@ -1,11 +1,13 @@
-- 👋 Hi, I’m @simonvarey
-- 👀 I’m interested in computational linguistics and text mining.
-- 🏢 I’m currently working with Python and JS.
-- 🌱 I’m currently learning Rust and R.
-<!--- - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... --->
+# Simon Varey, PhD
 
-<!---
-simonvarey/simonvarey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm interested in Natural Language Processing, Logic Programming, and Web Accessibility. I'm happy to collaborate on open source projects with on these and related topics. Message me at [LinkedIn](https://www.linkedin.com/in/simon-varey/) for professional matters. 
+
+## Languages
+
+Expert: JavaScript/TypeScript, Rust, Python
+
+Skilled: Haskell, R, Swift, [Hylo](https://github.com/hylo-lang/hylo)
+
+## Projects
+
+[Value-Semantics](https://github.com/simonvarey/value-semantics): The JavaScript/TypeScript Value Semantics Toolkit
